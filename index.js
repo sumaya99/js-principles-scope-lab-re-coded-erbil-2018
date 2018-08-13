@@ -15,6 +15,6 @@ function overwriteBestCustomer(newFavorite){
 }
 
 function changeLeastFavoriteCustomer(){
-  
+  leastFavoriteCustomer = 'sumaya';
   
 }
